@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "617796643321",
+    "firebase_url": "https://iitgdashboard.firebaseio.com",
+    "project_id": "iitgdashboard",
+    "storage_bucket": "iitgdashboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617796643321:android:af154e861585f66c",
+        "android_client_info": {
+          "package_name": "com.ankuringale.iitgdashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617796643321-e9ndjbcbcl9nre4eottu7g4grgku7f33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankuringale.iitgdashboard",
+            "certificate_hash": "4f06fac1d1c06eb80eab3e6a42d1b4e55b5787d6"
+          }
+        },
+        {
+          "client_id": "617796643321-cbjpeavchbqlbh1gfbb0uef591gjauv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ZfrFsRHXm1P7GF-3iCWkpBWwpftQcYc"
+        },
+        {
+          "current_key": "AIzaSyD1ZfrFsRHXm1P7GF-3iCWkpBWwpftQcYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617796643321-cbjpeavchbqlbh1gfbb0uef591gjauv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
